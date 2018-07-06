@@ -1,7 +1,7 @@
 public class HelloWorldExample {
 
 	public static void main(String[] args) {
-		// TODO Output Hello World to the user
+		// This comment is different
 		System.out.println("Hello World");
 	}
 
